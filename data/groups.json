@@ -1,0 +1,85 @@
+[
+  {
+    "id": "anxiety-overthinking",
+    "name": "Anxiety & Overthinking",
+    "description": "A supportive space to explore anxiety patterns, learn grounding techniques, and share experiences with others who understand the cycle of overthinking.",
+    "whoItsFor": "People experiencing persistent worry, racing thoughts, or difficulty managing anxious feelings",
+    "capacity": 6,
+    "sessions": [
+      {
+        "id": "s1",
+        "date": "2026-02-10",
+        "time": "18:00",
+        "duration": 90,
+        "therapist": "Dr. Sarah Chen",
+        "bookedSeats": 1
+      },
+      {
+        "id": "s2",
+        "date": "2026-02-17",
+        "time": "18:00",
+        "duration": 90,
+        "therapist": "Dr. Sarah Chen",
+        "bookedSeats": 0
+      },
+      {
+        "id": "s3",
+        "date": "2026-02-24",
+        "time": "18:00",
+        "duration": 90,
+        "therapist": "Dr. Sarah Chen",
+        "bookedSeats": 0
+      }
+    ]
+  },
+  {
+    "id": "workplace-stress",
+    "name": "Workplace Stress & Burnout",
+    "description": "Navigate work-related challenges, build resilience, and develop healthy boundaries in a group of peers facing similar pressures.",
+    "whoItsFor": "Professionals dealing with burnout, high-pressure environments, or work-life balance struggles",
+    "capacity": 6,
+    "sessions": [
+      {
+        "id": "s4",
+        "date": "2026-02-11",
+        "time": "19:00",
+        "duration": 90,
+        "therapist": "Dr. Michael Torres",
+        "bookedSeats": 1
+      },
+      {
+        "id": "s5",
+        "date": "2026-02-18",
+        "time": "19:00",
+        "duration": 90,
+        "therapist": "Dr. Michael Torres",
+        "bookedSeats": 1
+      }
+    ]
+  },
+  {
+    "id": "grief-transitions",
+    "name": "Grief & Life Transitions",
+    "description": "Process loss and navigate life changes with compassion and community support. This group honors all forms of grief and transition.",
+    "whoItsFor": "Anyone experiencing loss, major life changes, or seeking support through difficult transitions",
+    "capacity": 6,
+    "sessions": [
+      {
+        "id": "s6",
+        "date": "2026-02-12",
+        "time": "17:00",
+        "duration": 90,
+        "therapist": "Dr. Emily Watson",
+        "bookedSeats": 0
+      },
+      {
+        "id": "s7",
+        "date": "2026-02-19",
+        "time": "17:00",
+        "duration": 90,
+        "therapist": "Dr. Emily Watson",
+        "bookedSeats": 0
+      }
+    ]
+  }
+]

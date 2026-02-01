@@ -1,0 +1,38 @@
+[
+  {
+    "id": "BK1769892876666",
+    "groupId": "anxiety-overthinking",
+    "sessionId": "s1",
+    "groupName": "Anxiety & Overthinking",
+    "sessionDate": "2026-02-10",
+    "sessionTime": "18:00",
+    "therapist": "Dr. Sarah Chen",
+    "userName": "jasil",
+    "userEmail": "jasilriyas12@gmail.com",
+    "createdAt": "2026-01-31T20:54:36.666Z"
+  },
+  {
+    "id": "BK1769893024448",
+    "groupId": "workplace-stress",
+    "sessionId": "s5",
+    "groupName": "Workplace Stress & Burnout",
+    "sessionDate": "2026-02-18",
+    "sessionTime": "19:00",
+    "therapist": "Dr. Michael Torres",
+    "userName": "jasil",
+    "userEmail": "jasilriyas12@gmail.com",
+    "createdAt": "2026-01-31T20:57:04.448Z"
+  },
+  {
+    "id": "BK1769894539358",
+    "groupId": "workplace-stress",
+    "sessionId": "s4",
+    "groupName": "Workplace Stress & Burnout",
+    "sessionDate": "2026-02-11",
+    "sessionTime": "19:00",
+    "therapist": "Dr. Michael Torres",
+    "userName": "jasil",
+    "userEmail": "jasilriyas12@gmail.com",
+    "createdAt": "2026-01-31T21:22:19.358Z"
+  }
+]
